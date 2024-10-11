@@ -1,4 +1,4 @@
-# In Class Assessment 1 - Classes and Unit Tests (Course Weight 15%)
+# In Class Assessment 01 - Classes and Unit Tests (Course Weight 15%)
 
 ## Multiple Choice (Weight 4%) /  Coding Problem (Weight 11%)
 
